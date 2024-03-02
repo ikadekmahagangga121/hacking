@@ -1,5 +1,5 @@
 {
-  "image": "toolisticon/kalilinux:latest",
+  "image": "kalilinux/kali-rolling:latest",
   "features": {
   }
 }
